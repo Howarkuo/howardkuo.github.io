@@ -1,0 +1,30 @@
+- name: "Advanced Algorithm Design & Data Structures (Coursera)"
+  description: "Mastery of algorithmic complexity, heaps, graphs, trees."
+
+- name: "Relational Database Management with PostgreSQL (Coursera)"
+  description: "Advanced SQL, normalization, integrity constraints."
+
+- name: "Foundational Mathematics: Linear Algebra (University of Sydney)"
+  description: "Matrix operations, eigenvalues, vector spaces for ML."
+
+- name: "International Lifeguard Certificate"
+  issuer: "Lifeguard Authority"
+  date: "2023-09-11"
+  image: ""
+
+- name: "Pharm.D Degree"
+  issuer: "[Your University]"
+  date: "2025"
+  image: ""
+
+- name: "First-Principles Materials Calculations Training Program"
+  issuer: "National Center for High-Performance Computing"
+  description: "Training in first-principles calculations for materials science."
+  date: "" # Date not provided
+  image: "https://drive.google.com/drive/u/0/folders/1xL8a5yHuoOKX8QJq5GZAaJoJmQy6qnfu"
+
+- name: "AI Application Planner Competency Certification"
+  issuer: "Ministry of Economic Affairs, Taiwan (via ITRI)"
+  description: "Competency certification for planning and executing AI applications."
+  date: "" # Date not provided
+  image: "https://drive.google.com/drive/u/0/folders/1xL8a5yHuoOKX8QJq5GZAaJoJmQy6qnfu"
