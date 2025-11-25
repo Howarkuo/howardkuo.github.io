@@ -1,0 +1,54 @@
+- company: "Vernus AI"
+  role: "R&D Intern"
+  period: "Sep 2025 – Present"
+  description: |
+    - Optimized SFT protocols for the ReAlX model for chemical reaction prediction.
+    - Built datasets for antibody and reaction prediction modeling.
+    - Supported ReAlxBio and collaborated with AI engineers and scientists.
+
+- company: "futurenest"
+  role: "Product Engineer Intern"
+  period: "Sept 2024 – Sept 2025"
+  description: |
+    - Built backend systems using Docker, Django, FastAPI.
+    - Developed AI assistant modules and smart knowledge center workflows.
+    - Integrated LLM + RAG for knowledge base and vector retrieval services.
+
+- company: "Yu Zhi Pharmacy"
+  role: "Community Pharmacy Practice (Intern)"
+  period: "Dec 2024 – Present"
+  description: "Community pharmacy practice at Yu Zhi Pharmacy (Fujin St) — patient counseling, dispensing, and pharmacy operations."
+
+- company: "Community Pharmacy Practice — Yu Zhi Pharmacy, Taipei"
+  role: "Intern"
+  period: "Dec 2024 – Feb 2025"
+  description: |
+    - Performed dispensing, counseling, inventory management.
+    - Engaged in patient education and public health promotion.
+
+- company: "UC San Diego — Research Exchange"
+  role: "Visiting Scholar, Materials & Nanoengineering"
+  period: "Summer 2024"
+  description: "Research on lipid coatings around porous silicon nanoparticles; learned NTA, SEM, HPLC; awarded Best Presenter in UCSD summer research program."
+
+- company: "Koo Foundation Sun Yat-Sen Cancer Center, ICU"
+  role: "Hospital Pharmacy Practice"
+  period: "Jan 2023 – Nov 2024"
+  description: |
+    - Engaged in lung and breast cancer clinical discussions.
+    - Collaborated with physicians, RTs, nutritionists, ICU nurses.
+
+- company: "MSD Taiwan (Merck & Co.)"
+  role: "Medical Affairs Specialist"
+  period: "May 2022 – May 2023"
+  description: |
+    - Coordinated clinical trials and antimicrobial resistance surveillance with Taiwan CDC and IQVIA.
+    - Developed LINE Medical Information Platform increasing engagement by 30%.
+    - Experienced in medical communication and cross-functional collaboration.
+
+- company: "TTY Biopharm Company Ltd."
+  role: "Manufacturing Intern"
+  period: "Aug 2021 – Sep 2021"
+  description: |
+    - Participated in pharmaceutical manufacturing and QC workflows.
+    - Analyzed vaccine vial quality and improved cleaning efficiency.
