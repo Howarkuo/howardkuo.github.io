@@ -4,43 +4,41 @@ description: "Pharmacy professional with cross-disciplinary training in drug dev
 url: "https://howarkuo.github.io"
 baseurl: ""
 
-
 author:
-name: "Howard Kuo"
-bio: "Pharmacy professional with strong cross-disciplinary training in drug development, computational chemistry, pharmaceutical strategy making, and AI-based informatics."
-image: "/assets/images/portfolio.jpg"
-
+  name: "Howard Kuo"
+  bio: "Pharmacy professional with strong cross-disciplinary training in drug development, computational chemistry, pharmaceutical strategy making, and AI-based informatics."
+  image: "/assets/images/portfolio.jpg"
 
 markdown: kramdown
 theme: minima
-plugins: []
-
+plugins:
+  # The github-pages gem handles all standard plugins, but sometimes 
+  # explicitly listing them helps. For a start, this should be fine.
+  - jekyll-feed
+  - jekyll-seo-tag 
 
 nav:
-- title: "Home"
-url: /
-- title: "About"
-url: /about
-- title: "Projects"
-url: /projects
-- title: "Experience"
-url: /experience
-- title: "Certificates"
-url: /certificates
-- title: "Notes"
-url: /notion-molecular-dynamics
-
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
+  - title: "Experience"
+    url: /experience
+  - title: "Certificates"
+    url: /certificates
+  - title: "Notes"
+    url: /notion-molecular-dynamics
 
 social:
-- name: "GitHub"
-url: "https://github.com/Howarkuo"
-- name: "Medium"
-url: "https://medium.com/@howard900126"
-
+  - name: "GitHub"
+    url: "https://github.com/Howarkuo"
+  - name: "Medium"
+    url: "https://medium.com/@howard900126"
 
 collections:
-posts:
-output: true
-
+  posts:
+    output: true
 
 permalink: /:title/
