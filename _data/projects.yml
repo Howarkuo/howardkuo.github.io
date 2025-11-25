@@ -1,0 +1,7 @@
+-name: "CNN-CAM-Image-Classification-and-Explainability" url: "https://github.com/Howarkuo/CNN-CAM-Image-Classification-and-Explainability" description: "This repository contains the code and resources for a deep learning project focused on building a Convolutional Neural Network (CNN) for image classification, coupled with Class Activation Mapping (CAM) for model interpretability.
+
+The primary goal is to not only classify images accurately but also to visualize which parts of the image the CNN is focusing on when making a prediction." tech: "TensorFlow , NumPy"
+
+-name: "Portfolio Repo" url: "https://github.com/Howarkuo/Portfolio" description: "Personal portfolio and image assets." tech: "Markdown"
+
+-name: "Reinforcement Learning for Optimizing Cardiogenic Shock Treatment" url: "https://github.com/Howarkuo/D3QN-RL-for-ICU-Vasopressor-Diuretic-Withdrawal-Time-Series-analysis" description: "Using MIMIC‑IV v2.2, a cohort of 1,404 ICU cases was constructed and used to train a Double Deep Q‑Network (D3QN) integrating survival + physiological endpoints. The model aims to guide vasopressor and diuretic withdrawal strategies, offering a personalized AI‑enabled decision support system." tech: "Reinforcement Learning, Double Deep Q-Network (D3QN), Time-Series Analysis"
