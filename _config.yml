@@ -1,0 +1,46 @@
+title: "Howard Kuo's World"
+email: "howard900126@gmail.com"
+description: "Pharmacy professional with cross-disciplinary training in drug development, computational chemistry, pharmaceutical strategy, and AI-based informatics."
+url: "https://howarkuo.github.io"
+baseurl: ""
+
+
+author:
+name: "Howard Kuo"
+bio: "Pharmacy professional with strong cross-disciplinary training in drug development, computational chemistry, pharmaceutical strategy making, and AI-based informatics."
+image: "/assets/images/portfolio.jpg"
+
+
+markdown: kramdown
+theme: minima
+plugins: []
+
+
+nav:
+- title: "Home"
+url: /
+- title: "About"
+url: /about
+- title: "Projects"
+url: /projects
+- title: "Experience"
+url: /experience
+- title: "Certificates"
+url: /certificates
+- title: "Notes"
+url: /notion-molecular-dynamics
+
+
+social:
+- name: "GitHub"
+url: "https://github.com/Howarkuo"
+- name: "Medium"
+url: "https://medium.com/@howard900126"
+
+
+collections:
+posts:
+output: true
+
+
+permalink: /:title/
